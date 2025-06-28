@@ -108,7 +108,8 @@ Product Category
 -Hiring managers (LinkedIn portfolio)
 -Employers seeking SQL and Power BI expertise
 
-⚡️ Author
+Author
+Irman Sharma
 
 
 
